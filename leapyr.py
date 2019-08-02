@@ -8,4 +8,4 @@ if year%4==0:
     else:
         print("leap yr")
 else:
-    print("not a leap yr")
+    print("not a leap yr")pgrm1.py
